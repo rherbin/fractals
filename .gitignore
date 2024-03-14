@@ -1,4 +1,5 @@
 *.bat
 /images/
 *.bmp
-*.DLL
+*.exe
+*.s
