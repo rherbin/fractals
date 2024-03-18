@@ -1,0 +1,1 @@
+Small fractal explorer made with C++ and the SDL library. By default displays the Mandelbrot set.
